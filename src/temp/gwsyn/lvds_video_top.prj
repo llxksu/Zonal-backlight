@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-55C" package="PBGA484" speed="8" partNumber="GW2A-LV55PG484C8/I7"/>
+    <FileList>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_video_top.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_rx/lvds_7to1_rx_top.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_rx/LVDS71RX_1CLK8DATA.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_rx/gowin_rpll/LVDS_RX_rPLL.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_rx/bit_align_ctl.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_rx/word_align_ctl.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_tx/lvds_7to1_tx_top.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_tx/gowin_rpll/LVDS_TX_rPLL.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/lvds_7to1_tx/ip_gddr71tx.v" type="verilog"/>
+        <File path="D:/fpga/FPGA/Mini_LED_example/LVDS_RX/Gowin_LVDS_7to1_RX_RefDesign/project/src/ramflag_1.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="include_path" value="src/lvds_7to1_rx"/>
+        <Option type="include_path" value="src/lvds_7to1_tx"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="lvds_video_top.vg"/>
+        <Option type="output_wrapper_file" value="lvds_video_top_wrapper.v"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="lvds_video_top"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="vccx" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

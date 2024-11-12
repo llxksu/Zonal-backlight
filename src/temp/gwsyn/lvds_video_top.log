@@ -1,0 +1,56 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_video_top.v'
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v'
+Analyzing included file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_defines.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v":22)
+Back to file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v":22)
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\LVDS71RX_1CLK8DATA.v'
+Analyzing included file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_defines.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\LVDS71RX_1CLK8DATA.v":2)
+Back to file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\LVDS71RX_1CLK8DATA.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\LVDS71RX_1CLK8DATA.v":2)
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\gowin_rpll\LVDS_RX_rPLL.v'
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v'
+Analyzing included file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_defines.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v":2)
+Back to file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v":2)
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\word_align_ctl.v'
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_top.v'
+Analyzing included file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_defines.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_top.v":25)
+Back to file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_top.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_top.v":25)
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\gowin_rpll\LVDS_TX_rPLL.v'
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\ip_gddr71tx.v'
+Analyzing included file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_defines.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\ip_gddr71tx.v":2)
+Back to file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\ip_gddr71tx.v'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\ip_gddr71tx.v":2)
+Analyzing Verilog file 'D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\ramflag_1.v'
+Compiling module 'lvds_video_top'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_video_top.v":22)
+Compiling module 'LVDS_7to1_RX_Top'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v":24)
+Compiling module 'LVDS71RX_1CLK8DATA'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\LVDS71RX_1CLK8DATA.v":6)
+Compiling module 'LVDS_RX_rPLL'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\gowin_rpll\LVDS_RX_rPLL.v":9)
+Compiling module 'bit_align_ctl'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v":5)
+WARN  (EX2420) : Latch inferred for net 'next_state[3]'; We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\bit_align_ctl.v":126)
+Compiling module 'word_align_ctl'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\word_align_ctl.v":1)
+Compiling module 'LVDS_7to1_TX_Top'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\lvds_7to1_tx_top.v":27)
+Compiling module 'LVDS_TX_rPLL'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\gowin_rpll\LVDS_TX_rPLL.v":9)
+Compiling module 'ip_gddr71tx'("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\ip_gddr71tx.v":4)
+NOTE  (EX0101) : Current top module is "lvds_video_top"
+WARN  (EX0206) : Instance "rpll_inst" 's parameter "DEVICE" value invalid("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\gowin_rpll\LVDS_RX_rPLL.v":42)
+WARN  (EX0206) : Instance "rpll_inst" 's parameter "DEVICE" value invalid("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_tx\gowin_rpll\LVDS_TX_rPLL.v":39)
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "bit_align_ctl" instantiated to "bit_aln_ctl_inst" is swept in optimizing("D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\lvds_7to1_rx\lvds_7to1_rx_top.v":482)
+[95%] Generate netlist file "D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\temp\gwsyn\lvds_video_top.vg" completed
+Generate wrapper file "D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\temp\gwsyn\lvds_video_top_wrapper.v" completed
+[100%] Generate report file "D:\fpga\FPGA\Mini_LED_example\LVDS_RX\Gowin_LVDS_7to1_RX_RefDesign\project\src\temp\gwsyn\lvds_video_top_syn.rpt.html" completed
+GowinSynthesis finish

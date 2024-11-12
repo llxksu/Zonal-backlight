@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="lvds_video_top" Register="26" Lut="59" T_Register="83(26)" T_Alu="17(0)" T_Lut="105(59)">
+    <SubModule name="LVDS_7to1_RX_Top_inst" Register="49" Alu="17" Lut="30" T_Register="57(49)" T_Alu="17(17)" T_Lut="45(30)">
+        <SubModule name="lvds_71_rx" Lut="1" T_Lut="1(1)">
+            <SubModule name="LVDS_RX_rPLL_inst"/>
+        </SubModule>
+        <SubModule name="wd_aln_ctl_inst" Register="8" Lut="14" T_Register="8(8)" T_Lut="14(14)"/>
+    </SubModule>
+    <SubModule name="LVDS_7to1_TX_Top_inst" Lut="1" T_Lut="1(1)">
+        <SubModule name="LVDS_TX_rPLL_inst"/>
+        <SubModule name="ip_gddr71tx_inst"/>
+    </SubModule>
+</Module>

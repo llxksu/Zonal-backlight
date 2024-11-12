@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="sram_top" Register="216" Lut="192" T_Register="216(216)" T_Lut="192(192)" T_Bsram="2(0)">
+    <SubModule name="prom" Bsram="1" T_Bsram="1(1)"/>
+    <SubModule name="sdpb" Bsram="1" T_Bsram="1(1)"/>
+</Module>

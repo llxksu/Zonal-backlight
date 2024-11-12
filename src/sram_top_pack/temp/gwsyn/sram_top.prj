@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-55C" package="PBGA484" speed="8" partNumber="GW2A-LV55PG484C8/I7"/>
+    <FileList>
+        <File path="D:/GaoYun/work/lvds1280_800_7to1_led_screen/test_board/7001_pack/project/src/sram_top.v" type="verilog"/>
+        <File path="D:/GaoYun/work/lvds1280_800_7to1_led_screen/test_board/7001_pack/project/src/led_part/gowin_prom.v" type="verilog"/>
+        <File path="D:/GaoYun/work/lvds1280_800_7to1_led_screen/test_board/7001_pack/project/src/led_part/gowin_sdpb.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="sram_top.vg"/>
+        <Option type="output_wrapper_file" value="sram_top_wrapper.v"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="sram_top"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="vccx" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

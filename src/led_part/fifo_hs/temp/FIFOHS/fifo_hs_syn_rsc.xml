@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="FIFO_HS_Top" Register="62" Alu="10" Lut="664" Ssram="256" T_Register="62(62)" T_Alu="10(10)" T_Lut="664(664)" T_Ssram="256(256)"/>
